@@ -1,2 +1,3 @@
 def process(message: str) -> None:
-    pass
+    if message == "放火吃chicken":
+        return "致豪吃chicken"
